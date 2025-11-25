@@ -67,6 +67,8 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rig0&theme=darkhub&no-frame=true&row=1)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rig0&theme=tokyonight&hide_border=true)
+
 ### *"Good admins automate. Great admins eliminate."*
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /> 
 
