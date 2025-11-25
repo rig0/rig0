@@ -67,6 +67,8 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rig0&theme=darkhub&no-frame=true&row=1)
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rig0&theme=tokyonight&hide_border=true)
 
 ### *"Good admins automate. Great admins eliminate."*
