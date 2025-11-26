@@ -17,7 +17,7 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 ## Github Statistics
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fawn-eight-52.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=false)![Top Languages](https://github-readme-stats-fawn-eight-52.vercel.app/api/top-langs/?username=rig0&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=false)![Top Languages](https://github-readme-stats-fawn-eight-52.vercel.app/api/top-langs/?username=rig0&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rig0&theme=tokyonight&no-frame=true&row=1&no-bg=true)
 
