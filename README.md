@@ -62,7 +62,7 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 <div align="center">
 
-
+---
 
 ### *"Good admins automate. Great admins eliminate."*
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /> 
