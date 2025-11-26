@@ -55,13 +55,13 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 ## Github Statistics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rig0&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats-fawn-eight-52.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=false)![Top Languages](https://github-readme-stats-fawn-eight-52.vercel.app/api/top-langs/?username=rig0&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rig0&theme=tokyonight&no-frame=true&row=1&no-bg=true)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rig0&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&line=38bdae&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rig0&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&line=38bdae&custom_title=Contribution%20Activity)
 
-[![GitHub Streak](https://github-streak.rigslab.com?user=rig0&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
+![GitHub Streak](https://github-streak.rigslab.com?user=rig0&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=500)]
 
 ### *"Good admins automate. Great admins eliminate."*
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /> 
