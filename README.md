@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70a2ff&center=true&vCenter=true&width=600&lines=System+Administrator;DevOps+Enthusiast;Automation+Advocate;Homelab+Engineer)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-rigslab.com-4EAA25?style=for-the-badge&logo=safari&logoColor=white)](https://rigslab.com)
-[![Email](https://img.shields.io/badge/Email-Rigo--Dev@pm.me-8f32e3?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rigo-dev@pm.me)
+[![Email](https://img.shields.io/badge/Email-Rigo--Dev@pm.me-7344ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rigo-dev@pm.me)
 
 
 
