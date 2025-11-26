@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:70a2ff&height=175&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3750,100:70a2ff&height=175&section=header)
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Rigo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70a2ff&center=true&vCenter=true&width=600&lines=System+Administrator;DevOps+Enthusiast;Automation+Advocate;Homelab+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=34bdae&center=true&vCenter=true&width=600&lines=System+Administrator;DevOps+Enthusiast;Automation+Advocate;Homelab+Engineer)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-rigslab.com-4EAA25?style=for-the-badge&logo=safari&logoColor=white)](https://rigslab.com)
 [![Email](https://img.shields.io/badge/Email-Rigo--Dev@pm.me-7344ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rigo-dev@pm.me)
@@ -74,6 +74,6 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 ### *"Good admins automate. Great admins eliminate."*
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /> 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:70a2ff&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c3750,100:70a2ff&height=120&section=footer)
 
 </div>
