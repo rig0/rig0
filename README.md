@@ -27,6 +27,11 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 ## Technology Stack
 
+### Networking & Security
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 ### Operating Systems & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -53,10 +58,6 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 ![ESP32](https://img.shields.io/badge/ESP32-458bff?style=for-the-badge&logo=ESPHome&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-9447cf?style=for-the-badge&logo=mqtt&logoColor=white)
 
-### Networking & Security
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
