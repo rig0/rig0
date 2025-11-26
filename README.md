@@ -9,18 +9,12 @@
 [![Website](https://img.shields.io/badge/Website-rigslab.com-4EAA25?style=for-the-badge&logo=safari&logoColor=white)](https://rigslab.com)
 [![Email](https://img.shields.io/badge/Email-Rigo--Dev@pm.me-7344ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rigo-dev@pm.me)
 
-
-
- 
+</div>
 
 ## About Me
-</div>
 I'm a System Admin with a passion for infrastructure, automation, security and continuous improvement. My background spans Linux/Windows administration, network architecture, virtualization, and development. I love building self-hosted solutions, optimizing systems, and creating complex automation workflows.
 
 <div align="center">
-
- 
-
 
 ## Technology Stack
 
@@ -58,8 +52,6 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 </div>
 
 <div align="center">
-
- 
 
 ## Github Statistics
 
