@@ -67,7 +67,7 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rig0&theme=tokyonight&no-frame=true&row=1&no-bg=true)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rig0&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rig0&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&line=38bdae&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://git-stats.rigslab.com?user=rig0&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 
