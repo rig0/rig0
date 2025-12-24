@@ -21,7 +21,7 @@ I'm a System Admin with a passion for infrastructure, automation, security and c
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rig0&theme=tokyo-night&hide_border=true&area=true&bg_color=transparent&line=38bdae&custom_title=Contribution%20Activity)
 
-![GitHub Stats](https://github-readme-stats-fawn-eight-52.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=false&hide_title=true&hide=contribs&exclude_repo=jenkins-pipelines,jenkins-deployment&hide_rank=true)![Top Languages](https://github-readme-stats-fawn-eight-52.vercel.app/api/top-langs/?username=rig0&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=6&hide_title=true&exclude_repo=jenkins-pipelines)
+![GitHub Stats](https://github-readme-stats-fawn-eight-52.vercel.app/api?username=rig0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=false&hide_title=true&hide=contribs&exclude_repo=jenkins-pipelines&hide_rank=true)![Top Languages](https://github-readme-stats-fawn-eight-52.vercel.app/api/top-langs/?username=rig0&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=6&hide_title=true&exclude_repo=jenkins-pipelines)
 
 ![GitHub Streak](https://github-streak.rigslab.com?user=rig0&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=500)
 
