@@ -12,7 +12,7 @@
 </div>
 
 ## About Me
-I'm a System Admin with a passion for infrastructure, automation, and cybersecurity. My background spans Linux/Windows administration, network architecture, virtualization, and development. At the core I'm just a nerd who loves to problem solve and create solutions.
+I'm a System Admin with a passion for infrastructure, automation, and cybersecurity. My background spans Linux/Windows administration, network architecture, virtualization, and development. At the core, I'm just a nerd who loves to problem solve and create solutions.
 
 ## Github Statistics
 <div align="center">
