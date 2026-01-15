@@ -76,3 +76,4 @@ I'm a System Admin with a passion for infrastructure, automation, and cybersecur
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c3750,100:70a2ff&height=120&section=footer)
 
 </div>
+
